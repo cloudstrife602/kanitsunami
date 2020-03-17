@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanitsunami/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kanitsunami/static/js/main.1dab3d19.chunk.js",
+    "main.js.map": "/kanitsunami/static/js/main.1dab3d19.chunk.js.map",
+    "runtime-main.js": "/kanitsunami/static/js/runtime-main.81d0ee97.js",
+    "runtime-main.js.map": "/kanitsunami/static/js/runtime-main.81d0ee97.js.map",
+    "static/js/2.00a0a7fd.chunk.js": "/kanitsunami/static/js/2.00a0a7fd.chunk.js",
+    "static/js/2.00a0a7fd.chunk.js.map": "/kanitsunami/static/js/2.00a0a7fd.chunk.js.map",
+    "index.html": "/kanitsunami/index.html",
+    "precache-manifest.657083c1de69ba8c7f7d5226f157eb1e.js": "/kanitsunami/precache-manifest.657083c1de69ba8c7f7d5226f157eb1e.js",
+    "service-worker.js": "/kanitsunami/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kanitsunami/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.00a0a7fd.chunk.js.LICENSE.txt": "/kanitsunami/static/js/2.00a0a7fd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kanitsunami/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d0ee97.js",
+    "static/js/2.00a0a7fd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1dab3d19.chunk.js"
+  ]
+}
